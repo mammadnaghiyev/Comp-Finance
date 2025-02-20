@@ -1,1 +1,1 @@
-# Comp-Finance
+# Computational Finance
